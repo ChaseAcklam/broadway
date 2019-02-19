@@ -3,6 +3,7 @@ body {
   font-size: 18px;
   color: white;
   text-align: center;
+  background-color: none;
 }
 h1,#home {
   background-image: url("../images/hheader.png");
@@ -11,7 +12,8 @@ h1,#home {
   font-weight: bold;
   font-size: 60px;
 }
-a{
+
+#home a{
   font-family: Helvetica;
   font-size: 18px;
   color: white;
@@ -50,5 +52,7 @@ p {
   font-family: Helvetica;
   font-size: 11px;
   color: white;
+}
+.dimgray {
   background-color: dimgray;
 }
