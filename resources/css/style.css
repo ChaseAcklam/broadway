@@ -1,0 +1,54 @@
+body {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+}
+h1,#home {
+  background-image: url("../images/hheader.png");
+  color: white;
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 60px;
+}
+a{
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+}
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  color: Black;
+}
+h3 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  text-align: center;
+  color: Black;
+}
+p {
+  font-family: Helvetica;
+  font-size: 14px;
+  text-align: center;
+  color: Black;
+}
+.portteam h3 {
+  background-image: url("../images/hheader.png");
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+}
+.footer p, a{
+  text-align: left;
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
